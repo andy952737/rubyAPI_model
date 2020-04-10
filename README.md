@@ -1,1 +1,5 @@
-# rubyAPI_model
+## Rails only apis 
+
+# app
+
+# Config 
